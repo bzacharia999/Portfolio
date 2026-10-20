@@ -28,3 +28,5 @@ r/WallStreetBets is a subreddit where primary retail trader discuss their trades
 As an avid League of Legends player who keeps up with the professional scene, I was interested in exploring the game at the highest levels of play. This project serves case study analyzing the top Challenger players in North America's League of Legends ladder. This project ingests data directly from the Riot Games API, performs extensive exploratory data analysis on player and match-level statistics, and trains predictive models to forecast match outcomes
 
 
+**[What Affects Reaction Time?](https://github.com/bzacharia999/What-Affects-Reaction-Time-) | R, Dplyr, Quarto**
+Reaction time is an important factor in many sports and activities that require quick decision making. This project investigates how **physiological** and **environmental** factors affect visual reaction time. By employing a rigorous **$2^3$ ($2 \times 2 \times 2$) repeated-measures factorial design** and **blocking on individual subjects**, we isolate the impact of short-term modifications from intrinsic baseline differences.

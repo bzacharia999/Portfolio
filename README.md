@@ -29,4 +29,4 @@ As an avid League of Legends player who keeps up with the professional scene, I 
 
 
 **[What Affects Reaction Time?](https://github.com/bzacharia999/What-Affects-Reaction-Time-) | R, Dplyr, Quarto**
-Reaction time is an important factor in many sports and activities that require quick decision making. This project investigates how **physiological** and **environmental** factors affect visual reaction time. By employing a rigorous **2<sup>3</sup> (2 × 2 × 2) repeated-measures factorial design** and **blocking on individual subjects**, we isolate the impact of short-term modifications from intrinsic baseline differences.
+Reaction time is an important factor in many sports and activities that require quick decision making. This project investigates how **physiological** and **environmental** factors affect visual reaction time. By employing a rigorous **(2 × 2 × 2) repeated-measures factorial design** and **blocking on individual subjects**, we isolate the impact of short-term modifications from intrinsic baseline differences. After the experiment, we were able detect statistically significant differences in reaction times across different times of day.

@@ -22,11 +22,14 @@ Hello! My name is Benjamin Sabu Zacharia, and I'm a recent Statistics graduate f
 ## Projects
 
 **[Financial Sentiment Analysis across r/WallStreetBets](https://github.com/bzacharia999/Wallstreetbets-sentiment-analysis-RAG-agent) | Python, Hugging Face, LangChain**
+
 r/WallStreetBets is a subreddit where primary retail trader discuss their trades often including meme stocks, options, and other speculative investments. I thought it would be an interesting idea to classify sentiment across some of the stocks/companies that were often in discussion in the subreddit. This is a Streamlit application that ingests data from r/wallstreetbets, performs NLP-driven sentiment analysis with BERTopic, and provides a RAG-powered chatbot grounded in subreddit context.
 
 **[League of Legends Challenger League Analysis](https://github.com/bzacharia999/Study-of-NA-s-Top-League-of-Legends-Players) | Python, Sklearn, Pandas, XGBoost**
+
 As an avid League of Legends player who keeps up with the professional scene, I was interested in exploring the game at the highest levels of play. This project serves case study analyzing the top Challenger players in North America's League of Legends ladder. This project ingests data directly from the Riot Games API, performs extensive exploratory data analysis on player and match-level statistics, and trains predictive models to forecast match outcomes
 
 
 **[What Affects Reaction Time?](https://github.com/bzacharia999/What-Affects-Reaction-Time-) | R, Dplyr, Quarto**
+
 Reaction time is an important factor in many sports and activities that require quick decision making. This project investigates how **physiological** and **environmental** factors affect visual reaction time. By employing a rigorous **(2 × 2 × 2) repeated-measures factorial design** and **blocking on individual subjects**, we isolate the impact of short-term modifications from intrinsic baseline differences. After the experiment, we were able detect statistically significant differences in reaction times across different times of day.

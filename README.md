@@ -30,12 +30,11 @@ r/WallStreetBets is a subreddit where primary retail trader discuss their trades
 
 **[League of Legends Challenger League Analysis](https://github.com/bzacharia999/Study-of-NA-s-Top-League-of-Legends-Players)** | Python, Sklearn, Pandas, XGBoost
 
-<p align="center">
-  <img src="assets/img/LoL project screenshot.png" alt="Modelling Results" height="230" />
-  <img src="assets/img/feature importance.png" alt="Feature Importance" height="230" />
-</p>
+
 
 As an avid League of Legends player who keeps up with the professional scene, I was interested in exploring the game at the highest levels of play. This project serves case study analyzing the top Challenger players in North America's League of Legends ladder. This project ingests data directly from the Riot Games API, performs extensive exploratory data analysis on player and match-level statistics, and trains predictive models to forecast match outcomes
+
+<img src="assets/img/feature importance.png" alt="Feature Importance" width="700" />    
 
 
 **[What Affects Reaction Time?](https://github.com/bzacharia999/What-Affects-Reaction-Time-)** | R, Dplyr, Quarto

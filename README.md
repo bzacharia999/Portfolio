@@ -1,6 +1,7 @@
 # Portfolio
 
-Hello! My name is Benjamin Sabu Zacharia, and I'm a recent Statistics graduate from the University of California, Berkeley. This portfolio showcases my work experience, as well as some of the projects I've been working on, which I think intersects my interests with data science and analytics!
+Hello! My name is Benjamin Sabu Zacharia, and I'm a recent Statistics graduate from the University of California, Berkeley. This portfolio showcases my work experience, as well as some of the projects I've been working on!
+
 
 ## Education
 **B.A., Statistics | University of California, Berkeley (_May 2026_)**

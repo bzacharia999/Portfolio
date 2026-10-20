@@ -30,7 +30,10 @@ r/WallStreetBets is a subreddit where primary retail trader discuss their trades
 
 **[League of Legends Challenger League Analysis](https://github.com/bzacharia999/Study-of-NA-s-Top-League-of-Legends-Players)** | Python, Sklearn, Pandas, XGBoost
 
-<img src="assets/img/LoL project screenshot.png" alt="LoL Project Screenshot" width="700" />
+<p align="center">
+  <img src="assets/img/LoL project screenshot.png" alt="Modelling Results" width="350" />
+  <img src="assets/img/feature importance.png" alt="Feature Importance" width="350" />
+</p>
 
 As an avid League of Legends player who keeps up with the professional scene, I was interested in exploring the game at the highest levels of play. This project serves case study analyzing the top Challenger players in North America's League of Legends ladder. This project ingests data directly from the Riot Games API, performs extensive exploratory data analysis on player and match-level statistics, and trains predictive models to forecast match outcomes
 
